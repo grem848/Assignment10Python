@@ -4,6 +4,8 @@ A useful practice is to install imutils, which is also used in the tutorial:
 
 pip install imutils
 
+Please use the image primary-shapes.jpg included in this repo.
+
 ## Question one:
 Display the image and print width, height and depth of the image.
 

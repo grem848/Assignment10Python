@@ -1,5 +1,11 @@
 # Assignment 10 - Group Good Awareness
 This assignment is based on the tutorial found here: https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
+
+
+Remember to install opencv:
+
+conda install -c menpo opencv
+
 A useful practice is to install imutils, which is also used in the tutorial:
 
 pip install imutils
